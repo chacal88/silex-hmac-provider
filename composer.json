@@ -1,5 +1,5 @@
 {
-  "name": "mrprompt/silex-hmac-provider",
+  "name": "chacal/silex-hmac-provider",
   "description": "A simple HMAC provider to Silex Rest APIs.",
   "type": "library",
   "license": "BSD-3-Clause",
